@@ -22,9 +22,7 @@ export default function Footer() {
                   />
                 </Link>
               </div>
-              <div className="text-gray-400">
-                Empowering Your Metabolic Journey
-              </div>
+              <div className="text-gray-400">Empowering You.</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}

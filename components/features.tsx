@@ -42,11 +42,10 @@ export default function Features() {
                   strokeWidth="2"
                 />
               </svg>
-              <h4 className="h4 mb-2">Continuous Glucose Monitoring (CGM)</h4>
+              <h4 className="h4 mb-2">CGM</h4>
               <p className="text-lg text-gray-400 text-center">
-                Dive deep into your health metrics with our state-of-the-art CGM
-                device. Discreet and user-friendly, it offers 24/7 glucose data,
-                providing a comprehensive view of your metabolic health.
+                Continuous glucose monitor (CGM) provides 24/7 glucose data,
+                providing a comprehensive view of your blood sugar.
               </p>
             </div>
 
@@ -85,8 +84,7 @@ export default function Features() {
               <p className="text-lg text-gray-400 text-center">
                 Beyond presenting data, our app delivers understanding. Using
                 sophisticated AI algorithms, it deciphers glucose readings into
-                actionable insights, helping patients make informed decisions
-                about their health.
+                actionable insights.
               </p>
             </div>
 
@@ -133,9 +131,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Personalized Dietitian</h4>
               <p className="text-lg text-gray-400 text-center">
-                Every individual's metabolic response is unique. Our expert
-                dietitians offer tailored coaching, ensuring you receive
-                guidance that's aligned with your specific needs and goals.
+                Every individual's response is unique. Our expert dietitians
+                offer tailored guidance that's aligned with your specific needs
+                and goals.
               </p>
             </div>
 
@@ -176,9 +174,7 @@ export default function Features() {
               <h4 className="h4 mb-2">Resource Library</h4>
               <p className="text-lg text-gray-400 text-center">
                 Access to a rich library of articles, videos, and tools curated
-                for those keen on understanding and optimizing their metabolic
-                health. From foundational knowledge to advanced insights, our
-                library is a comprehensive resource.
+                for those keen on understanding and optimizing their diabetes.
               </p>
             </div>
 
@@ -215,9 +211,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Community Support Groups</h4>
               <p className="text-lg text-gray-400 text-center">
-                Nurafya believes in the power of community. We facilitate
-                support groups where users can share experiences, ask questions,
-                and offer encouragement to one another.
+                We facilitate support groups where users can share experiences,
+                ask questions, and offer encouragement to one another.
               </p>
             </div>
 
@@ -261,10 +256,9 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2">Educational Workshops</h4>
               <p className="text-lg text-gray-400 text-center">
-                Regular workshops and webinars on metabolic health, nutrition,
-                and lifestyle changes. These sessions, led by experts, provide
-                users with the latest research and best practices in
-                understanding and enhancing their metabolic function.
+                Regular workshops and webinars on diabetes, nutrition, and
+                lifestyle changes. These sessions, led by experts, provide users
+                with the latest research and best practices.
               </p>
             </div>
           </div>

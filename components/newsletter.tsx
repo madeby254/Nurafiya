@@ -44,7 +44,7 @@ export default function Newsletter() {
               </h3>
               <p className="text-purple-200 text-lg">
                 Ready for a new approach to your health? Sign up to be notified
-                at launch.
+                when we launch.
               </p>
             </div>
 

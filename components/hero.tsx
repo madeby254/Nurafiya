@@ -50,10 +50,9 @@ export default function Hero() {
               className="text-xl text-gray-400 mb-8"
               data-aos="fade-up"
               data-aos-delay="200">
-              At Nurafya, we're dedicated to empowering individuals to achieve
-              optimal metabolic health. By seamlessly integrating advanced
-              technology with human expertise, we're setting a new standard for
-              understanding and enhancing metabolic function.
+              Nurafya's mission is to revolutionize diabetes care in Africa by
+              providing comprehensive, accessible, and personalized healthcare
+              solutions.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">

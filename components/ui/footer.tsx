@@ -15,7 +15,7 @@ export default function Footer() {
                 {/* Logo */}
                 <Link href="/" className="block" aria-label="Your Brand Name">
                   <Image
-                    src="/images/nurafyalogo.png" // Replace with your logo's path
+                    src="/images/Nurafya.png" // Replace with your logo's path
                     alt="Your Brand Name"
                     width={80} // Adjust width as needed
                     height={80} // Adjust height as needed
